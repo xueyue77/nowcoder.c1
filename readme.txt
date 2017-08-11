@@ -1,1 +1,2 @@
-远程repository对应着  C:\Users\fenghua\PycharmProjects\nowcoder.c1
+remote repository is for:    C:\Users\fenghua\PycharmProjects\nowcoder.c1
+name : orgin1 
